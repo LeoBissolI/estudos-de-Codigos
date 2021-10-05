@@ -12,4 +12,5 @@ agr serio...
 
 ## para que serve este arquvivo?
 
-serve para fazer algm coisa :D
+serve para descrever as funcionalidades do software : O que faz? , Como faz? ,Para que faz? , qual sua logica e scripts introduzidos? ...
+uma analize breve e rapida de varios projetos serao postados aqui como referencia para melhor atualização
